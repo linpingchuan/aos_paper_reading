@@ -14,7 +14,7 @@ This is the first time I wrote a reading note on a serious top-tier paper. Since
 3. What are the new ideas?
 4. Technical details?
 5. Anything remarkable on performance analysis?
-6. What are your question after a detailed reading?
+6. What are your questions after a detailed reading?
 
 Since it's the first time to write a reading note on research papers, I expect there'll be a lot of space for improvement, please feel free to give suggestions. Any advice is appeciated.
 
