@@ -36,4 +36,5 @@ The third part compared the performance of several scalable locks on x86 multico
 ## What are your thoughts?
 I guess the quality of this paper is not as good as those we've read, which were published on top-tier conferences, in terms of the amount of workload and innovative ideas.
 
+Still, the Markov chain is interesting, and my full respect to MIT and CSAIL.
 I doubt if I'd ever be able to go to MIT, so far the chance is still a rarity of 3 sigma, I guess.
