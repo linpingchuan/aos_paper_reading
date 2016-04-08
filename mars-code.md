@@ -1,5 +1,5 @@
 # Mars Code
-Authored by Gerard J. Holzmann, Doi:10.1145/2560217.2560218
+## Authored by Gerard J. Holzmann, Doi:10.1145/2560217.2560218
 
 ####Student Name: Zhu Li
 ####Student ID: 2015210959

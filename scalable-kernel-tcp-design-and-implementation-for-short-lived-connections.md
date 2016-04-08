@@ -1,5 +1,5 @@
 # Scalable Kernel TCP Design and Implementation for Short-Lived Connections
-Authored jointly by Tsinghua and Sina
+## Authored jointly by Tsinghua and Sina
 
 ####Student Name: Zhu Li
 ####Student ID: 2015210959

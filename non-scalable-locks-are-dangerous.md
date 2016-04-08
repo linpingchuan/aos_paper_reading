@@ -1,5 +1,5 @@
-## Non-Sclalable Locks Are Dangerous
-Authored by MIT CSAIL
+# Non-Sclalable Locks Are Dangerous
+## Authored by MIT CSAIL
 
 ####Student Name: Zhu Li
 ####Student ID: 2015210959
